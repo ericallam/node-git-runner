@@ -34,6 +34,9 @@ git.runCommand '/full/path/to/existing/git/repo', 'git status', function(err, re
 Pull down this repo and run:
 
     > npm install
+
+Then unzip test/repos/1.zip and finally run the tests:
+
     > npm test
 
 ### TODO:
